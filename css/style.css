@@ -1,0 +1,57 @@
+body {
+  background-color: #433d3c;
+  font-family: 'Jura', sans-serif;
+  margin: 0;
+  font-size: 20px;
+  line-height: 2;
+}
+
+img {
+  border-radius: 100%;
+  width: 300px;
+  height: 300px;
+}
+
+h1 {
+  color: #e9c496;
+  font-family: 'Sacramento', cursive;
+  margin-bottom: 0;
+}
+
+a{
+
+text-decoration:none;
+margin: 0;
+
+}
+
+p{
+
+  text-align: center;
+  width: 40%;
+
+}
+
+.Heading {
+  color: white;
+  background-color: black;
+  padding: 20px 20px;
+}
+
+.Content {
+  background-color: white;
+  margin: 0;
+}
+
+.footer{
+
+background-color: #cd5d7d;
+margin: 0;
+font-size: 20px;
+padding: 40px 10px;
+text-align: center;
+
+}
+.linkcolor{
+  color: white;
+}
